@@ -1,6 +1,6 @@
 # AI-Powered-Stock-Prediction-Analysis
 AI-powered stock prediction tool for NSE India combining technical analysis with LLM-based sentiment insights.
-# AI-Powered Stock Prediction & Analysis
+
 
 This project automates the selection and analysis of top stocks from the NSE (National Stock Exchange of India) using a combination of technical indicators and AI-powered sentiment analysis.
 
