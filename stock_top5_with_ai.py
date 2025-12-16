@@ -8,8 +8,8 @@ import boto3
 # -------------------------------
 # Configuration
 # -------------------------------
-ENDPOINT_NAME = "gpt-oss-20b-vllm"
-REGION_NAME = "us-east-1"
+ENDPOINT_NAME = "Enter Here enPoint name "
+REGION_NAME = "Enter Here Regionname"
 
 # -------------------------------
 # Step 1: Download and Load Bhavcopy
